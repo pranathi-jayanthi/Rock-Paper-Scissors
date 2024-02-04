@@ -42,7 +42,7 @@ To play the Rock Paper Scissors Game, follow these steps:
 
 ```bash
 python rock_paper_scissors.py
-
+```
 
 ## Contribution
 
