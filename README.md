@@ -34,11 +34,15 @@ Primarily designed for kids, the Rock Paper Scissors Game is a simple yet engagi
 
 ## Getting Started
 
-To play the Rock Paper Scissors Game, simply run the `rock_paper_scissors.py` file.
+To play the Rock Paper Scissors Game, follow these steps:
+
+1. Download the required images (`rock-user.png`, `paper-user.png`, `scissors-user.png`, `rock.png`, `paper.png`, `scissors.png`) and place them in the same directory as the `rock_paper_scissors.py` file.
+
+2. Run the `rock_paper_scissors.py` file using the following command:
 
 ```bash
 python rock_paper_scissors.py
-```
+
 
 ## Contribution
 
